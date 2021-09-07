@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904429600012",
+    "project_id": "snaptag-4c9a5",
+    "storage_bucket": "snaptag-4c9a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904429600012:android:28756f854afa5e490f5d29",
+        "android_client_info": {
+          "package_name": "com.example.snaptag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904429600012-pag5tkpn4mvujt2v361s2a5n1be4m1vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs371A5-9sMyCtS60j33jtQYR-z6n-wI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904429600012-pag5tkpn4mvujt2v361s2a5n1be4m1vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
